@@ -1,0 +1,13 @@
+<package format="2">
+  <name>urdfdom_from_catkin</name>
+  <version>1.0.0</version>
+  <description>Use urdfdom from catkin
+  </description>
+  <maintainer email="sloretz@osrfoundation.org">Shane Loretz</maintainer>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>liburdfdom-dev</depend>
+</package>
